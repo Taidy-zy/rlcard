@@ -1,4 +1,4 @@
-''' A toy example of playing Blackjack with random agents
+''' A toy example of playing mahjong with random agents
 '''
 
 import rlcard
